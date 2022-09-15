@@ -1,0 +1,4 @@
+#Sun Sep 11 10:33:08 WIB 2022
+base.0=/home/aris/Desktop/bootcamp/BMI/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

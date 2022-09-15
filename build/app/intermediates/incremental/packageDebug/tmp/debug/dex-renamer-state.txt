@@ -1,0 +1,4 @@
+#Thu Sep 15 19:03:34 WIB 2022
+base.0=/home/aris/Desktop/bootcamp/BMI/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
