@@ -2,6 +2,8 @@
 BMI (Body Mass Index)
 tugas  pertama bootcamp eidspert.id 
 # BMI
+Aplikasi BMI di gunakan untuk menghitung berat badan ideal berdasarkan tinggi badan anda
+
 aplikasi tersedia di
 https://drive.google.com/file/d/1PTC9pgRuQU7d3M6Vhk_N3GtAPmBwygMK/view?usp=share_link
 
